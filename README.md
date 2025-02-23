@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,dart" />
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,postman,github" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,github" />
 </div>
 
 
