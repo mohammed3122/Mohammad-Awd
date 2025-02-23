@@ -1,14 +1,16 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Yasser!;+Welcome!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Awd!;+Welcome!;" />
 </div>
 
 <br>
 
 ## About Me:
-- 👨‍💻 *Mobile Application Developer* | *Software Engineer*.  
-- 🚀 Currently mastering *Advanced Flutter* and *Android Development*.  
-- 🤖 Exploring *Machine Learning* during my free time.  
-- 🌟 Discover all my work at *[My Repository](https://github.com/AhmedYasserTaha?tab=repositories)*.
+🚀 Flutter Developer | AI Enthusiast | Tech for Good
+👨‍💻 Passionate about building cross-platform apps using Flutter & Dart
+🧠 Exploring the power of AI in accessibility & assistive tech
+💡 Founder of MoDev – crafting solutions for real-world problems
+🎯 Currently working on: Assistive Tech App for People of Determination
+
 
 <br>
 <div align="center">
@@ -38,11 +40,13 @@
 ## 📞 Connect with Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ahmed-yasser-913678335/" alt="LinkedIn">
+    <a href="www.linkedin.com/in/
+mohammad-awd-3m
+" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-    <a href="https://wa.me/201010374459" alt="WhatsApp">
+    <a href="https://wa.me/201288128468" alt="WhatsApp">
         <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="mailto:ahmed.yasser.taha10@gmail.com" alt="Gmail">
+    <a href="mailto:mahometawad@gmail.com" alt="Gmail">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
